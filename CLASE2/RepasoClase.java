@@ -16,5 +16,9 @@ public class RepasoClase {
         System.out.println("Your name is "+name+"\n"+
         "Your age is: "+age+"\n"+
         "Your height is: "+height);
+
+        final float PI = 3.1416;
+
+        
     }
 }
