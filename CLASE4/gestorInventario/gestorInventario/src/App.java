@@ -30,6 +30,6 @@ public class App {
                     System.out.println("Opcion no valida. Elige entre 1 y 5.");
             }
         }
-        sc.close();
+        sc.close();//Cerrar el Scanner
     }
 }
